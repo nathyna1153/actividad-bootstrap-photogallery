@@ -1,0 +1,53 @@
+.logo {
+
+}
+.header{
+	background-image: url(../images/bg2.jpg);
+	background-size:110% 150%;
+	background-repeat: no-repeat;	
+	background-position: 0% 15%;
+	width: 100%;
+}
+.texto{
+	width: 50%;
+	text-align:center;
+	padding: 2% 0% 3%;
+	margin-left: 25%;
+}
+.texto-centrado{
+	text-align: center;
+	color: white;
+}
+.tamaño{
+	font-size: 0,8em;
+}
+.galeria{
+	margin:3%;
+}
+.foto-contenedor{
+	text-align:center;
+	border: 9px solid #ddd;
+	border-radius: 20px;
+	padding: 0px;
+	
+}
+.foto{
+	width: 100%
+}
+.navbar-brand {
+  padding: 0px; 
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; 
+  width: auto;
+}
+.panel-body>img {
+  height: 100%;
+  padding: 5px; 
+  width: 43px;
+  margin-left: 45%;
+}
+footer{
+	text-align:center;
+}
